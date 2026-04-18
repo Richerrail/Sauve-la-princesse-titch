@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sauve la Princesse Titch ! - Avec Voix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Écran de démarrage -->
+    <div id="start-screen" class="start-screen">
+        <div class="start-box">
+            <h1>🏰 Sauve la Princesse Titch ! 👸</h1>
+            <div class="characters">🤴💕👸</div>
+            <div class="story">
+                <p>👹 Le méchant <strong>Monster Boozer</strong> a enlevé la Princesse Titch !</p>
+                <p>Il l'a emprisonnée dans son château sombre... 😰</p>
+                <p>💪 Parcours les 5 mondes pour la sauver !</p>
+                <p>⭐ Attrape les étoiles dorées en chemin !</p>
+                <p>🎵 Active le son pour entendre les voix !</p>
+            </div>
+            <p style="color: #FFF; font-size: 16px; margin-bottom: 15px;">🎮 Flèches ⬅️ ➡️ pour avancer | Impossible de perdre !</p>
+            <button id="start-btn" class="start-btn">🎮 Commencer l'aventure !</button>
+        </div>
+    </div>
+
+    <div id="game-container">
+        <canvas id="game-canvas" width="800" height="400"></canvas>
+        <div id="controls">
+            <button id="btn-left" class="control-btn">⬅️</button>
+            <button id="btn-right" class="control-btn">➡️</button>
+        </div>
+        <div id="instructions">
+            <p>🎮 Flèches ⬅️ ➡️ pour avancer</p>
+            <p>⭐ Attrape les étoiles dorées !</p>
+            <p>🎵🔊 Active le son pour entendre les voix !</p>
+            <p>👹 Niveau 5 : Touche Boozer pour le faire fuir !</p>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
