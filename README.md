@@ -5,7 +5,7 @@ Un jeu de plateforme simple et coloré pour enfants (3 ans et +), inspire de Mar
 ![Description de l'image](https://github.com/Richerrail/Sauve-la-princesse-titch/blob/main/sauver%20la%20princesse%20titch.png)
 ## 🎮 Jouer maintenant
 
-**[👉 Clique ici pour jouer !][(https://richerrail.github.io/Sauve-la-princesse-titch/)]**
+**[👉 Clique ici pour jouer !](https://richerrail.github.io/Sauve-la-princesse-titch/)**
 
 ---
 
