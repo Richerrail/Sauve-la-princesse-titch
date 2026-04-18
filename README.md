@@ -2,7 +2,7 @@
 
 Un jeu de plateforme simple et coloré pour enfants (3 ans et +), inspire de Mario, ou le but est de sauver la Princesse Titch des griffes du mechant Monster Boozer.
 
-![Apercu du jeu](https://bl435ie4m6tie.kimi.page/preview.png)
+![Apercu du jeu]([https://github.com/Richerrail/Sauve-la-princesse-titch/blob/397b574c68f4d406fdc8c384e0df3f6e1098f01c/sauver%20la%20princesse%20titch.png]
 
 ## 🎮 Jouer maintenant
 
